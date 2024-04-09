@@ -1,0 +1,16 @@
+{
+  "cities": [
+    {
+      "cityName": "Ahmedabad",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-04-03T13:09:05.772Z",
+      "notes": "sdfsxvxcv",
+      "position": {
+        "lat": "23.026659627974098",
+        "lng": "72.5746536254883"
+      },
+      "id": 1
+    }
+  ]
+}
